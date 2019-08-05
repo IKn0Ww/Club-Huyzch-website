@@ -1,0 +1,33 @@
+body {
+    background: black;
+    color: white;
+    margin: auto;
+}
+
+header {
+    background: black;
+    text-align:center;
+}
+
+img.logo {
+    display: inline-block;
+    width:20%;
+    height: auto;
+}
+
+ul.header {
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+   
+   /* Navigation */
+   
+ul {
+    display: inline-block;
+    padding:0; 
+    list-style:none;
+    text-align:left;
+}
